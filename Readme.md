@@ -25,5 +25,3 @@
 - < 3 minute Youtube Video Link for Project Demo >
 
 ## Resources
-1. https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css
-2. 

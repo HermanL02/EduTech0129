@@ -4,7 +4,7 @@
 <section id="list-container">
 	
     <form action=""> 
-        <div id="txtHint">Attendence</div>
+        <div id="txtHint" class="attendence">Attendence</div>
         <script>
             window.onload=function(){
                 updateRecord("display");

@@ -12,7 +12,9 @@ if (isset($_GET['hour'])) {
     $insert = "INSERT INTO `record`(`TIMENOW`, `STUNAME`, `COURSENUM`) VALUES ('$time','$STU','$COURSENUM')";
     $result = $dbconnection->query($insert);   
     if($result){
+        echo "<div class=\"attendence\">";
         echo "Attendance Checked";
+        echo "</div>";
     }else{
         echo "cannot insert";
     }
