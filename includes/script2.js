@@ -142,6 +142,7 @@ sendDataButon.addEventListener("click",function(){
   console.log("reactionAdd.php?reaction="+str);
   xhttp.send();
   document.querySelector(".wrapper").classList.add("hidden");
+  window.location.href="analytics.php"; 
 })
 
 
