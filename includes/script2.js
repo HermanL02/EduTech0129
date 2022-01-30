@@ -131,6 +131,8 @@ buttonElement.addEventListener("click", function () {
   document.querySelector("iframe").classList.add("hidden");
   buttonElement.classList.add("hidden");
   document.querySelector(".wrapper").classList.remove("hidden");
+  document.querySelector(".input").classList.add("hidden");
+  document.getElementById("list-container").classList.add("hidden");
 });
 
 const sendDataButon = document.querySelector(".sendData");
