@@ -23,7 +23,7 @@ Online slide sharing system with the option of leaving feedback for each page. S
 4. Web Hosting for our design
 
 ## Link
-- < 3 minute Youtube Video Link for Project Demo >
+- https://www.youtube.com/watch?v=Jv_BbJd7Zjk
 
 ## Resources
 https://developer.mozilla.org/en-US/
